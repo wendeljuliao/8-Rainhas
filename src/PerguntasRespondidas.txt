@@ -1,9 +1,20 @@
 1 - 92
 
-2 - Sim. Dependendo das escolhas iniciais das rainhas no jogo, ás vezes, fica inviável 
+2 - Sim. Dependendo das escolhas iniciais das rainhas no jogo, às vezes, fica inviável 
 colocar 8 rainhas no tabuleiro, resultando em menos de 8 rainhas postas no tabuleiro, 
 visto que isso seria o melhor localmente devido aquelas escolhas escolhidas no início do jogo,
 mas não a melhor de todas (a melhor global).
 
-3 - Não. Já que estamos colocando de 1 em 1 não tem, mas se eu colocassem todas as rainhas 
-de uma vez e fosse as movendo, provavelmente teria.
+Como nesse exemplo abaixo que só deu para colocar 6:
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+Quantidade de rainhas no mapa: 6
+
+3 - Não. Já que estamos colocando de 1 em 1, não tem, mas se eu colocasse todas as rainhas 
+de uma vez e fosse as movendo ao decorrer do jogo, provavelmente teria.
